@@ -4,9 +4,9 @@
 
 With a background in applied mathematics, I defy expectations by harboring a deep passion for web development. Their drive to merge creativity with analytical thinking fuels their quest to master coding languages, crafting visually striking and functional websites that push the boundaries of digital innovation.
 
-Skills:  REACT / JS / HTML / CSS / Tailwind / Firebase / Node js / NEXT js / Redux / MongoDB / Express /
+Skills:  REACT / JS / HTML / CSS / Tailwind / Firebase / Node js / NEXT js / Redux / MongoDB / Express / socket.io
 
-- 🔭 I’m currently working on personal project 
+- 🔭 I’m currently working at JEYSOL
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Web Development 
 
